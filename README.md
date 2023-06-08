@@ -216,8 +216,8 @@ Welcome to Programming-E-Books project repository! Here is a place to collect an
 ```
 
 ## 计算机经典系列丛书(黑皮书)
+<img width="1486" alt="截屏2023-06-08 下午5 17 10" src="https://github.com/flowerField/Programming-E-Books/assets/30917929/6d1a8dbd-8573-466f-add7-e8bc58c95423">
 
-<img width="1444" alt="截屏2023-06-08 下午12 31 49" src="https://github.com/flowerField/Programming-E-Books/assets/30917929/af78e199-0002-4529-8d68-603af7e19d72">
 
 **资源一键获取方式**：扫码或搜索关注公众号“文顶顶观察”，发送关键词 “编程书”
 
