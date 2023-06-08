@@ -215,8 +215,9 @@ Welcome to Programming-E-Books project repository! Here is a place to collect an
 191	离散数学导学
 ```
 
-## 计算机经典系列丛书(黑皮书)
-<img width="1486" alt="截屏2023-06-08 下午5 17 10" src="https://github.com/flowerField/Programming-E-Books/assets/30917929/6d1a8dbd-8573-466f-add7-e8bc58c95423">
+## 编程书籍(前端领域 + 后端领域 + 移动端 + Python灯编程语言)
+
+<img src="https://github.com/flowerField/Programming-E-Books/assets/30917929/6d1a8dbd-8573-466f-add7-e8bc58c95423" alt="Image" style="width: 200px;"/>
 
 
 **资源一键获取方式**：扫码或搜索关注公众号“文顶顶观察”，发送关键词 “编程书”
@@ -562,9 +563,3 @@ Welcome to Programming-E-Books project repository! Here is a place to collect an
 333	编写高质量代码--Web前端开发修炼之道
 334	锋利的jQuery(高清扫描版-有书签)
 335	HTML5权威指南
-	
-	
-	
-	
-	
-	
